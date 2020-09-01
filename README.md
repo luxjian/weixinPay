@@ -39,11 +39,3 @@ refund.php 退款
 3.文件需放到支付授权目录下，可以在微信支付商户平台->产品中心->开发配置中设置。
 
 4.如提示签名错误可以通过微信支付签名验证工具进行验证：https://pay.weixin.qq.com/wiki/tools/signverify/
-
-
-# 若对您有帮助，可以赞助并支持下作者哦，谢谢！
-
-<p align="center">
-    <img src="https://www.dedemao.com/uploads/zan.jpg" width="500px">
-    <p align="center">联系邮箱：884358@qq.com</p>
-</p>
